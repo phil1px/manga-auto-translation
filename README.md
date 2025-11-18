@@ -1,6 +1,4 @@
-# Manga-Translator-With-Deep-Learning
-
->  Created by [Walter Betini](https://github.com/walterBSG) and [Victor Guedes](https://github.com/VictorGuedes)
+# manga-auto-translation
 
 This is a project in development for manga translation (Japanese comics) from English to Portuguese using Deep Learning concepts. For this, it was necessary to create an object detector, character extractor and the translator.
 
@@ -36,7 +34,7 @@ pip install pytesseract
 
 ## Datasets
 
-The dataset of the manga we do not know if we can make it available, however it has been developed manually with the tool [LabelImg](https://github.com/tzutalin/labelImg). Below is the datasets used in the translator:
+The dataset of the manga we do not know if we can make it available, however it has been developed manually with the tool. Below is the datasets used in the translator:
 
 - [Tab-delimited Bilingual Sentence Pairs ](http://www.manythings.org/anki/)
 
